@@ -1,4 +1,5 @@
 #Terceira versão (ESTAVEL)
+
 Detalhes sobre as versões ESTAVEIS:
 - Não tem tantos bugs e normalmente são otimizadas.
 - Não significa que está completo, apenas que funciona melhor que versões anteriores.
