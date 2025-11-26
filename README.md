@@ -1,3 +1,5 @@
+# NOTAS
+
 #Primeira versão (BASE)
 Detalhes da versão BASE:
 
