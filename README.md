@@ -1,2 +1,3 @@
-# Clicker
-"Clicker" é um pequeno projeto de jogo, sua forma de jogar envolve clicar....? Apenas isso...? Talvez. A criação deste projeto também serve como treino de lógica e otimização em criação de jogos.  
+"Clicker" é um pequeno projeto de jogo, sua forma de jogar envolve clicar....? Apenas isso...? Antes era, porém agora está expandido para algo mais. A criação deste projeto também serve como treino de lógica e otimização em criação de jogos.
+
+A ideia inicial era apenas um jogo click simples, porém está se tornando algo maior e por conta disto o nome talvez possa mudar a partir da versão V0.04, se tornando "AreYOUaURLRobot" ao invés de "Clicker", e isso vem por conta de vários projetos que venho trabalhando. De forma resumida, a junção destes projetos dentro de 1 só funciona melhor do que cada um deles sendo um jogo separado, eles se encaixam e por isso não faz sentido manter o nome "Clicker" dando a entender que o jogo se trata apenas de clicar, sendo que ele se trata de vários esquemas diferentes de gameplay.
