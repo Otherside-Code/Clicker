@@ -1,3 +1,5 @@
+# NOTAS
+
 #Segunda versão (BASE)
 Detalhes da versão BASE:
 
@@ -7,9 +9,8 @@ Detalhes da versão BASE:
 - O arquivo abrirá no editor de jogos do "Construct 2", isto porque não foi criado um executável ou alocado a uma pagina de jogos.
 
 
-#V0.02
+# DETALHES SOBRE A VERSÃO V0.02
 
 - Testes de otimização
-
 
 -No final do projeto o jogo será alocado em uma pagina de jogos ou terá seu próprio executável, ainda não foi decidido qual das duas alternativas serão escolhidas ou se ambas serão realizadas.
