@@ -1,8 +1,11 @@
-# SOBRE
+Contem bugs.
+Não está completo.
+É necessário a engine "Construct 2" no computador para executar.
+O arquivo abrirá no editor de jogos do "Construct 2", isto porque não foi criado um executável ou alocado a uma pagina de jogos.
 
-A criação deste projeto serve como treino de lógica e otimização em criação de jogos.
-Este projeto serve mais como teste para projetos futuros.
-O projeto está com arquivos abertos para demonstrar o que foi feito e para caso alguém queira modifica-los.
-Cada versão é um conjunto de atualizações feitas no projeto, dessa forma pode-se ver o que está sendo realizado.
+# DETALHES SOBRE A VERSÃO V0.03
+- Elementos que geram maior qualidade de vida foram adicionados (mais por vir!)
+- Agora contém gráficos!!!
+- Foi criado uma base para a gameplay funcional (porém ainda não está completamente ativa no jogo)
 
-Clique na aba "Main" para poder ver as versões.
+- No final do projeto o jogo será alocado em uma pagina de jogos ou terá seu próprio executável, ainda não foi decidido qual das duas alternativas serão escolhidas ou se ambas serão realizadas.
