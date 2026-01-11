@@ -1,8 +1,3 @@
-# NOTAS
-
-#Segunda versão (BASE)
-Detalhes da versão BASE:
-
 - É super bugado
 - Não está completo
 - É necessário a engine "Construct 2" no computador para executar
